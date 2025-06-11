@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bienvenido a DevSoft, estamos felices de tenerte aquí.
+=======
+Hola! Te damos la más cordial bienvenida al equipo de desarrollo.
+>>>>>>> bienvenida-equipo
